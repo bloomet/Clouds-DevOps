@@ -112,11 +112,12 @@ jobs:
 
 **Время установки зависимостей у CI/CD с "плохими практиками":**
 
-![image](https://github.com/user-attachments/assets/dfbed184-2957-49b1-8fcf-1b8ade0a634b)
+<img width="1855" height="872" alt="image" src="https://github.com/user-attachments/assets/1335ced2-b1dc-433d-b0f6-3ea0e8113356" />
+
 
 **Время установки зависимостей у CI/CD с "хорошими практиками":**
 
-![image](https://github.com/user-attachments/assets/fa92a2c6-c82d-416e-a471-c77b8a371c89)
+<img width="1415" height="70" alt="image" src="https://github.com/user-attachments/assets/f5d7eb1c-d11f-4c12-b00a-9e60eae59121" />
 
 **Разница огромна**
 
@@ -132,15 +133,17 @@ P.S.: тесты workflow "плохих" и "хороших" практик со
 
 1.
 
-![image](https://github.com/user-attachments/assets/76b84fed-1dc2-4389-8fa5-afd05e05d4e4)
+<img width="1865" height="874" alt="image" src="https://github.com/user-attachments/assets/b690270e-5a4e-4ebc-b298-66188da9f5bf" />
+
 ![image](https://github.com/user-attachments/assets/a0123a24-dd33-43f2-9941-8e8cf0886799)
 
 
 2.
 
 
-![image](https://github.com/user-attachments/assets/e829b00d-1d65-4ecb-9e41-bca94e1ed193)
-![image](https://github.com/user-attachments/assets/f20e3a3e-712a-4252-afbd-57cb3a7495ec)
+<img width="1868" height="643" alt="image" src="https://github.com/user-attachments/assets/d8aa026a-157e-4163-ab8e-545088fa9ef8" />
+
+<img width="1788" height="673" alt="image" src="https://github.com/user-attachments/assets/9f207638-97e0-459a-bec2-5c3a4ce08415" />
 
 Тесты проводились в приватном репозитории. В данном случае на скринах отличается время установки запвисимостей, т.к. ранее это уже проводилось, а основное изменение на скрине - кеширование. 
 
