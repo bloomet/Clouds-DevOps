@@ -21,7 +21,7 @@
 
 Сначала импортируем данные, представленные в файле .csv в таблицу Excel. Это часть данных биллинга провайдера.
 
-![Условие лабораторной Azure](Azure.png)
+<img width="886" height="575" alt="Azure" src="https://github.com/user-attachments/assets/32613b2e-f6d4-4106-9cbc-ea816b83ec98" />
 
 ## Задание 2 - Сопоставление данных с документацией Azure
 
@@ -81,7 +81,7 @@
 
 В данной таблице предоставлены результаты проделанной работы:
 
-![Готовая лабораторная Azure](AzureFULL(1).png)
+<img width="1248" height="655" alt="AzureFULL(1)" src="https://github.com/user-attachments/assets/5293011a-d7c4-4970-88a2-6c261a23093f" />
 
 ## Выводы
 
