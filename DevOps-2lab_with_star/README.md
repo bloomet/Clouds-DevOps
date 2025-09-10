@@ -1,4 +1,4 @@
-# DevOps Lab2*. Работа с Docker Compose
+# DevOps Lab2 со звездочкой. Работа с Docker Compose
 ### Требования:
 - Написать “плохой” Docker Compose файл, в котором есть не менее трех “bad practices” по их написанию.
 - Написать “хороший” Docker Compose файл, в котором эти плохие практики исправлены.
