@@ -8,7 +8,7 @@
 
 Сначала импортируем данные, представленные в файле .csv в таблицу Excel. Это часть данных биллинга провайдера.
 
-![Условие лабораторной AWS](AWS.png)
+<img width="893" height="578" alt="AWS" src="https://github.com/user-attachments/assets/ee1effa5-fdb9-455d-b0da-aa8199b0ffdd" />
 
 ## Задание 2 - Сопоставление данных с документацией Amazon
 
