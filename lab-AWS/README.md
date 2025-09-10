@@ -62,7 +62,7 @@
 
 В данной таблице предоставлены результаты проделанной работы:
 
-![Готовая лабораторная AWS](AWSFULL(2).png)
+<img width="1368" height="677" alt="AWSFULL" src="https://github.com/user-attachments/assets/9fb5ffeb-3127-4a1a-81bd-718c67e78b9e" />
 
 ## Выводы
 
